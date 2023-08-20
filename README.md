@@ -1,5 +1,7 @@
 # Time_Series_plotly.express
-While working on Time-Series Data over my Summer Internship 2023 as Statistical Data Mining Analyst, I found a very simple and useful visualization using Python plotly.express library that can help view time series data with ease. Here's the implemenation of Python code for the same.
+While working on Time-Series Data over my Summer Internship 2023 as Statistical Data Mining Analyst, I found a very simple and useful visualization using Python plotly.express library that can help view time series data with ease. 
+
+Here's the implemenation of Python code for the same on a Mock temporal data.
 
 Step 1- Install plotly
 Step 2- Import Pandas for CSV file Data Input, plotly.express and matplotlib for visualization aspect
