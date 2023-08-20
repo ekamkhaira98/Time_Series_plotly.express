@@ -1,7 +1,7 @@
 # Time_Series_plotly.express
 While working on Time-Series Data over my Summer Internship 2023 as Statistical Data Mining Analyst, I found a very simple and useful visualization using Python plotly.express library that can help view time series data with ease. 
 
-![alt text]([https://github.com/ekamkhaira98/Time_Series_plotly.express/blob/main/Visualization.png])
+![alt text](https://github.com/ekamkhaira98/Time_Series_plotly.express/blob/main/Visualization.png)
 
 Here's the implemenation of Python code for the same on a Mock temporal data.
 
